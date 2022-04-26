@@ -34,7 +34,8 @@ public class Loan {
 	public void setNumberOfYears(int numberOfYears) {
 		this.numberOfYears = numberOfYears;
 	}
-	
+	//return loan Amount
+
 	public double  getLoanAmount() {
 		return loanAmount;
 	}

@@ -29,6 +29,8 @@ public class Loan {
 		return numberOfYears;
 	}
 	
+//loanAmount must be calculated
+
 	public void setNumberOfYears(int numberOfYears) {
 		this.numberOfYears = numberOfYears;
 	}

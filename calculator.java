@@ -67,6 +67,14 @@ class Calculator{
 			int subtraction = num1-num2;
 			System.out.println("The subtraction result is: "+subtraction);
 		}
+
+else if(n == 3){
+			int multiplication = num1 * num2;
+			System.out.println("The multiplication result is: " + multiplication);
+		} else if(n == 4){
+			int division  = num1 / num2;
+		} 
+
 		else {
 			System.exit(0);
 		}
